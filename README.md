@@ -1,8 +1,9 @@
 ### 👋 Oi, eu sou a Isabella!
 
 🎓 Estudante de Analise de Desenvolvimento de Sistemas(ADS)
+
 📁 Uso o GitHub pra guardar meus projetos da faculdade e aprender com eles  
-💡 Curiosa, criativa e sempre tentando entender por que o código não compila 😅  
+💡 Curiosa e criativa  
 
 ---
 
